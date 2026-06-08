@@ -1,0 +1,30 @@
+# Node modules and build output
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# Python caches and virtualenvs
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+simulator/.venv/
+simulator/venv/
+.venv/
+venv/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs and environment
+*.log
+.env
+.env.*
+!.env.example
