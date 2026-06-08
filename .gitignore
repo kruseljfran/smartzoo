@@ -28,3 +28,7 @@ venv/
 .env
 .env.*
 !.env.example
+
+# Exclude root files requested by user
+README.md
+INTSTV-projekt-2026_upute_studentima.pdf
